@@ -8,6 +8,17 @@ const API_CACHE = 'fitpro-api-v2';
 const PRECACHE_ASSETS = [
   '/',
   '/manifest.json',
+  '/pwa/icon-72x72.png',
+  '/pwa/icon-96x96.png',
+  '/pwa/icon-128x128.png',
+  '/pwa/icon-144x144.png',
+  '/pwa/icon-152x152.png',
+  '/pwa/icon-180x180.png',
+  '/pwa/icon-192x192.png',
+  '/pwa/icon-384x384.png',
+  '/pwa/icon-512x512.png',
+  '/pwa/icon-512x512-maskable.png',
+  '/pwa/fitpro-logo.png',
 ];
 
 // ── Install ──────────────────────────────────────────────────────────────────

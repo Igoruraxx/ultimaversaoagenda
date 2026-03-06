@@ -67,7 +67,7 @@ export default function Register() {
         <CardHeader className="space-y-2">
           <div className="flex items-center justify-center mb-4">
             <div className="w-16 h-16 flex items-center justify-center">
-              <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/fitpro-logo_005e8846.png" alt="FitPro Logo" className="w-16 h-16 object-contain" />
+              <img src="/pwa/fitpro-logo.png" alt="FitPro Logo" className="w-16 h-16 object-contain" />
             </div>
           </div>
           <CardTitle className="text-center text-2xl">FITPRO</CardTitle>

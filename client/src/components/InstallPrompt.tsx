@@ -71,7 +71,7 @@ export function InstallPrompt() {
       <div className="fixed bottom-20 left-4 right-4 z-50 bg-card border border-border rounded-xl shadow-xl p-4 flex items-center gap-3">
         <div className="w-10 h-10 shrink-0 rounded-xl overflow-hidden">
           <img
-            src="https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-192x192_e5bd9dd9.png"
+            src="/pwa/icon-192x192.png"
             alt="FITPRO"
             className="w-full h-full object-cover"
           />
@@ -98,7 +98,7 @@ export function InstallPrompt() {
         <div className="flex items-center justify-between mb-3">
           <div className="flex items-center gap-2">
             <img
-              src="https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-192x192_e5bd9dd9.png"
+              src="/pwa/icon-192x192.png"
               alt="FITPRO"
               className="w-8 h-8 rounded-xl"
             />
