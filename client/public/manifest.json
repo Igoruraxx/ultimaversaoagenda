@@ -15,55 +15,55 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-72x72_2bd80746.png",
+      "src": "/pwa/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-96x96_33f7ef7b.png",
+      "src": "/pwa/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-128x128_384cbc11.png",
+      "src": "/pwa/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-144x144_b2ce5e6c.png",
+      "src": "/pwa/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-152x152_f1562750.png",
+      "src": "/pwa/icon-152x152.png",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-192x192_e5bd9dd9.png",
+      "src": "/pwa/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-384x384_90f49b43.png",
+      "src": "/pwa/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-512x512_4a646b25.png",
+      "src": "/pwa/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-512x512-maskable_9d157a03.png",
+      "src": "/pwa/icon-512x512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -78,7 +78,7 @@
       "url": "/",
       "icons": [
         {
-          "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-96x96_33f7ef7b.png",
+          "src": "/pwa/icon-96x96.png",
           "sizes": "96x96"
         }
       ]
@@ -90,7 +90,7 @@
       "url": "/clientes",
       "icons": [
         {
-          "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/icon-96x96_33f7ef7b.png",
+          "src": "/pwa/icon-96x96.png",
           "sizes": "96x96"
         }
       ]
@@ -98,14 +98,14 @@
   ],
   "screenshots": [
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/splash-750x1334_c8015b3d.png",
+      "src": "/pwa/splash-750x1334.png",
       "sizes": "750x1334",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Agenda FITPRO"
     },
     {
-      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663385249362/5UbJ997E6SHYZid72bThxF/splash-2048x2732_b89b87d1.png",
+      "src": "/pwa/splash-2048x2732.png",
       "sizes": "2048x2732",
       "type": "image/png",
       "form_factor": "wide",
